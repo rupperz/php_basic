@@ -134,6 +134,21 @@ $goods = [
     $result = array_reverse($goods, true); // не меняется индекс а только value
     print_r($result); */
 
+    //TO DO add 1 element to array
+
+    $arr = ['Ivanov', 'Sidorov', 'Petrov'];
+
+    $arr[] = 'Varlam'; //добавление в конец масива
+    $arr[] = 'Buryakov'; //добавление в конец масива
+
+    print_r($arr);
+    echo "<br>";
+    $i = 1;
+
+    while( $i <= 11 ) {
+        echo $i . "<br>";
+        $i++;
+    }
 
     // Основные функции для работы с масивами
     // count
