@@ -256,7 +256,7 @@ $todayDate = date("d.m.y"); */
     while ($i <= 10) {
         echo "\t<tr>\n";
         $n = 1;
-        while($n <= 9){
+        while($n <= 10){
             $rez = $n * $i;
             echo "\t\t<td>\t $n * $i = $rez</td>\n";
             $n++;
