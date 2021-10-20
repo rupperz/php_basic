@@ -133,6 +133,32 @@ $goods = [
     /* $result = array_reverse($goods);
     $result = array_reverse($goods, true); // не меняется индекс а только value
     print_r($result); */
+
+
+    // Основные функции для работы с масивами
+    // count
+    // array_diff
+    // array_intersect
+    // array_key_exists
+    // array_keys
+    // array_values
+    // array_merge
+    // array_rand
+    // array_reverse
+    // compact
+    // exctract
+    // arsort
+    // asort
+    // sort
+    // rsort
+
+    // array_combine
+    // array_search
+    // array_shift
+    // array_unique
+    // array_unshift
+    // array_flip
+
 ?>
 </body>
 </html>
