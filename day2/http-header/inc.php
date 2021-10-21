@@ -1,6 +1,5 @@
 <?php
-
-echo $test = "Test msg";
+echo $test = "Test msg ";
 
 ?>
   
