@@ -1,0 +1,14 @@
+This file is with simple text.
+
+String 1
+
+String 23
+
+String 4
+This file is with simple text.
+
+String 1
+
+String 23
+
+String 4

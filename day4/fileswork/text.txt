@@ -1,0 +1,5 @@
+This file is with simple text.txt | email
+String|email
+
+String 23|email
+String 4
